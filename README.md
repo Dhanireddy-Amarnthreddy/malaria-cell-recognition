@@ -20,7 +20,7 @@ Our dataset comprises 27,558 cell images, evenly split between parasitized and u
 
 ## DESIGN STEPS
 
-1.We begin by importing the necessary Python libraries, including TensorFlow for deep learning, data preprocessing tools, and visualization libraries.
+1. We begin by importing the necessary Python libraries, including TensorFlow for deep learning, data preprocessing tools, and visualization libraries.
 
 2.To leverage the power of GPU acceleration, we configure TensorFlow to allow GPU processing, which can significantly speed up model training.
 
